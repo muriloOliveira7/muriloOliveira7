@@ -1,9 +1,9 @@
 ### Hi there, I'm Murilo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m currently a student of Masters of Cyber Security!
-- 🌱 I’m currently learning ML
-- 👯 I’m looking to be more present here
+- :lock: I'm a Security Analyst
+- :pencil: I'm currently working on a personal blog
+- :octocat: I'm looking to be more present here
 
 ### Connect with me:
 
